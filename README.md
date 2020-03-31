@@ -1,12 +1,14 @@
 # Gridsome Starter
-
 A simple portfolio starter theme for Gridsome
 
 ![screenshot](https://user-images.githubusercontent.com/4316355/55691365-a2403380-596b-11e9-93be-05b846ec7760.jpg)
 
+## Getting Started
+1. Install Gridsome CLI `npm install --global @gridsome/cli`
+1. `yarn`
+1. `yarn develop` to start a local dev server at `http://localhost:8080`
 
 ## Features
-
 - Clean and minimal design
 - [Tailwind CSS v1](https://tailwindcss.com) (with PurgeCSS)
 - Scroll to sections using [vue-scrollto](https://github.com/rigor789/vue-scrollto)
@@ -20,12 +22,6 @@ A simple portfolio starter theme for Gridsome
 - 404 Page
 - RSS Feed
 - Sitemap in XML
-
-## Getting Started
-
-1. Install Gridsome CLI `npm install --global @gridsome/cli`
-1. `yarn`
-1. `gridsome develop` to start a local dev server at `http://localhost:8080`
 
 ## Acknowledgements
 _Credit to [drehimself](https://github.com/drehimself/gridsome-portfolio-starter) for originally authoring this [Gridsome starter](https://github.com/drehimself/gridsome-portfolio-starter)_
