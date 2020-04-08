@@ -14,8 +14,8 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Page',
-  siteDescription: 'Playing with Gridsome during COVID-19',
+  siteName: 'ericc',
+  siteDescription: 'Playing with Gridsome, Tailwind, and Netlify',
   siteUrl: 'https://ericc.netlify.com',
   plugins: [
     {
