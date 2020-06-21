@@ -1,29 +1,9 @@
-# Gridsome Starter
+# #Gridsome Page
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0f28f7f5-48cd-41af-aab2-c2a75ce4c8c9/deploy-status)](https://app.netlify.com/sites/hopeful-minsky-b32a3d/deploys)
 
-A simple site using Gridsome
+Builds a simple blog page using Gridsome
 
 ![screenshot](https://user-images.githubusercontent.com/4316355/55691365-a2403380-596b-11e9-93be-05b846ec7760.jpg)
 
-## Getting Started
-1. Install Gridsome CLI `npm install --global @gridsome/cli`
-1. `yarn`
-1. `yarn develop` to start a local dev server at [`localhost:8080`](http://localhost:8080)
-
-## Features
-- Clean and minimal design
-- [Tailwind CSS v1](https://tailwindcss.com) (with PurgeCSS)
-- Scroll to sections using [vue-scrollto](https://github.com/rigor789/vue-scrollto)
-- Blog with markdown content for posts
-- Documentation type that shows how to use Vue components in Markdown (click Docs)
-- Theme Switcher with Dark Mode
-- Search posts with [Fuse.js](https://fusejs.io) and [vue-fuse](https://github.com/shayneo/vue-fuse)
-- Tags for posts
-- Basic pagination
-- Syntax highlighting with [Shiki](https://shiki.matsu.io) (using [this gridsome plugin](https://gridsome.org/plugins/gridsome-plugin-remark-shiki))
-- 404 Page
-- RSS Feed
-- Sitemap in XML
-
 ## Acknowledgements
-_Credit to [drehimself](https://github.com/drehimself/gridsome-portfolio-starter) for originally authoring this [Gridsome starter](https://github.com/drehimself/gridsome-portfolio-starter)_
+_Credit to [drehimself](https://github.com/drehimself) for originally authoring this [Gridsome starter](https://github.com/drehimself/gridsome-portfolio-starter)_
