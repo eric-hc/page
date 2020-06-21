@@ -1,4 +1,4 @@
-# #Gridsome Page
+## Gridsome Page
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0f28f7f5-48cd-41af-aab2-c2a75ce4c8c9/deploy-status)](https://app.netlify.com/sites/hopeful-minsky-b32a3d/deploys)
 
 Builds a simple blog page using Gridsome
