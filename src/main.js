@@ -36,5 +36,3 @@ export default function (Vue, { router, head, isClient }) {
     href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
   })
 }
-
-
